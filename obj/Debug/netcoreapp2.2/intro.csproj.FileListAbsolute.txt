@@ -1,0 +1,11 @@
+/Users/HunterMetts/workspace/intro/bin/Debug/netcoreapp2.2/intro.deps.json
+/Users/HunterMetts/workspace/intro/bin/Debug/netcoreapp2.2/intro.runtimeconfig.json
+/Users/HunterMetts/workspace/intro/bin/Debug/netcoreapp2.2/intro.runtimeconfig.dev.json
+/Users/HunterMetts/workspace/intro/bin/Debug/netcoreapp2.2/intro.dll
+/Users/HunterMetts/workspace/intro/bin/Debug/netcoreapp2.2/intro.pdb
+/Users/HunterMetts/workspace/intro/obj/Debug/netcoreapp2.2/intro.csprojAssemblyReference.cache
+/Users/HunterMetts/workspace/intro/obj/Debug/netcoreapp2.2/intro.csproj.CoreCompileInputs.cache
+/Users/HunterMetts/workspace/intro/obj/Debug/netcoreapp2.2/intro.AssemblyInfoInputs.cache
+/Users/HunterMetts/workspace/intro/obj/Debug/netcoreapp2.2/intro.AssemblyInfo.cs
+/Users/HunterMetts/workspace/intro/obj/Debug/netcoreapp2.2/intro.dll
+/Users/HunterMetts/workspace/intro/obj/Debug/netcoreapp2.2/intro.pdb
